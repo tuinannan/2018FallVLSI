@@ -1,0 +1,69 @@
+****** HSPICE -- K-2015.06-SP1 linux64 (Aug 23 2015) ******
+ Input File: test.sp
+ lic:
+ lic: FLEXlm: v11.2.1
+ lic: USER:   yanan                HOSTNAME: yanan-All-Series
+ lic: HOSTID: "74d02b2c227c"       PID:      5560
+ lic: Using FLEXlm license file:
+ lic: 3720@licsrv-ece
+ lic: Checkout 1 hspice
+ lic: License/Maintenance for hspice will expire on 31-jan-2019/2017.12
+ lic: 1(in_use)/50(total) FLOATING license(s) on SERVER 3720@licsrv-ece
+ lic:
+ init: begin read circuit files,  cpu clock=  1.30E-01
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/ad
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/ad
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/behave
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/bjt
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/burr_brn
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/comlinear
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/dio
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/fet
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/lin_tech
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/pci
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/signet
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/ti
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/tline
+       option search = /CAD/RH6/Synopsys/HSpice/K-2015.06-SP1/hspice/pa
+                         rts/xilinx
+       option runlvl
+       option acct =     2.00
+       option probe
+       option post =     1.00
+       option scale =     1.00
+       option parhier = local
+ init: end read circuit files,  cpu clock=  1.40E-01 peak memory=       210 mb
+ init: begin check errors,  cpu clock=  1.40E-01
+ init: end check errors,  cpu clock=  1.90E-01 peak memory=       210 mb
+ init: begin setup matrix, pivot=     0 cpu clock=  1.90E-01
+       establish matrix -- done,  cpu clock=  1.90E-01 peak memory=       210 mb
+       re-order matrix -- done,  cpu clock=  1.90E-01 peak memory=       210 mb
+ init: end setup matrix,  cpu clock=  1.90E-01 peak memory=       210 mb
+ output: test.tr0
+ sweep: tran tran0    begin, stop_t=  6.00E-07 #sweeps=6001 cpu clock=  1.90E-01
+ tran: time= 6.0000E-08 tot_iter=     131 conv_iter=      54 cpu clock= 1.90E-01
+ tran: time= 1.2000E-07 tot_iter=     199 conv_iter=      83 cpu clock= 1.90E-01
+ tran: time= 1.8000E-07 tot_iter=     310 conv_iter=     127 cpu clock= 2.00E-01
+ tran: time= 2.4000E-07 tot_iter=     402 conv_iter=     165 cpu clock= 2.00E-01
+ tran: time= 3.0819E-07 tot_iter=     497 conv_iter=     206 cpu clock= 2.00E-01
+ tran: time= 3.6000E-07 tot_iter=     576 conv_iter=     238 cpu clock= 2.00E-01
+ tran: time= 4.2000E-07 tot_iter=     671 conv_iter=     279 cpu clock= 2.00E-01
+ tran: time= 4.8000E-07 tot_iter=     766 conv_iter=     319 cpu clock= 2.00E-01
+ tran: time= 5.4000E-07 tot_iter=     842 conv_iter=     349 cpu clock= 2.10E-01
+ tran: time= 6.0000E-07 tot_iter=     939 conv_iter=     391 cpu clock= 2.10E-01
+ sweep: tran tran0    end,  cpu clock=  2.10E-01 peak memory=       212 mb
+>info:         ***** hspice job concluded
+ lic: Release hspice token(s)
