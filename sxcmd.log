@@ -1,0 +1,282 @@
+### Custom WaveView ADV log file, revision M-2017.03-SP2 (build Aug 22, ) ###
+### created at 19:47:22 on Thu Oct 25 2018 (Linux AMD64) ###
+### Host Name: yanan-All-Series   User ID: yanan   PID: 5906   ###
+wv_start_log
+# (0) running in waveview only mode
+# (0) SW_SX_PERL_LIB defined
+# (0) SW_SX_TCL_LIB defined
+# (0) HOME defined
+wv_move_window {Custom WaveView} {} 1345 24
+wv_select_window {Custom WaveView} 
+wv_move_window {Custom WaveView} {} 1335 14
+wv_move_window {Custom WaveView} {} 62 16
+wv_press_tool_button {Custom WaveView} {} {OpenWaveform0} 
+wv_move_window {FileDialog} {} 482 145
+wv_select_dialog {FileDialog} 
+wv_move_window {FileDialog} {} 481 247
+wv_move_scrollbar {FileDialog} {} {FileList.HScrollBar} {91}
+wv_select_list_item {FileDialog} {} {FileList} {test.tr0} 12
+wv_select_list_item {FileDialog} {} {FileList} {test.tr0} 12
+wv_dclick_list_item {FileDialog} {} {FileList} {test.tr0} 12
+wv_expand_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)} {+sep=@}
+wv_expand_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)} {0} {+sep=@}
+wv_move_scrollbar {Custom WaveView} {} {sigview.HScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {sigview.HScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)} {0} {+sep=@}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {2}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_select_list_item {Custom WaveView} {} {sigview} {v(bln4)} 29
+wv_select_list_item {Custom WaveView} {} {sigview} {v(bln4)} 29
+wv_dclick_list_item {Custom WaveView} {} {sigview} {v(bln4)} 29
+wv_select_waveview 1 {waveview 1}
+wv_select_toolbar_item {Custom WaveView} {waveview 1:1} {Full Unzoom Y Axis} 
+wv_select_list_item {Custom WaveView} {} {sigview} {v(wr4)} 53
+wv_drag_list_item {Custom WaveView} {} {sigview} {v(wr4)} 53
+wv_dclick_list_item {Custom WaveView} {} {sigview} {v(wr4)} 53
+wv_select_list_item {Custom WaveView} {} {sigview} {v(wren2)} 59
+wv_select_list_item {Custom WaveView} {} {sigview} {v(wren2)} 59
+wv_dclick_list_item {Custom WaveView} {} {sigview} {v(wren2)} 59
+wv_select_waveview 1 {waveview 1}
+wv_select_wv_item WV1.PANEL1:1.LEGEND
+wv_select_panel WV1.PANEL1:1.LEGEND
+wv_select_list_item {Custom WaveView} {} {sigview} {v(bln2)} 27
+wv_select_list_item {Custom WaveView} {} {sigview} {v(bln2)} 27
+wv_dclick_list_item {Custom WaveView} {} {sigview} {v(bln2)} 27
+wv_select_window {Custom WaveView} 
+wv_select_tab {Custom WaveView} {} {RBMenu} {Bar.File}
+wv_press_tool_button {Custom WaveView} {} {OpenWaveform0} 
+wv_select_dialog {FileDialog} 
+wv_move_window {FileDialog} {} 481 275
+wv_move_scrollbar {FileDialog} {} {FileList.HScrollBar} {1513}
+wv_select_list_item {FileDialog} {} {FileList} {xin_dac_2.tr0} 75
+wv_select_list_item {FileDialog} {} {FileList} {xin_dac_2.tr0} 75
+wv_dclick_list_item {FileDialog} {} {FileList} {xin_dac_2.tr0} 75
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_press_tool_button {Custom WaveView} {} {AbortLoading0} 
+wv_select_window {Custom WaveView} 
+wv_drag_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)@x_sa1(9)} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)@x_sa1(9)} {0} {+sep=@}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_collapse_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)} {0} {+sep=@}
+wv_expand_tree_item {Custom WaveView} {} {hierview} {D1:xin_dac_2.tr0(1)} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D1:xin_dac_2.tr0(1)} {0} {+sep=@}
+wv_select_waveview 1 {waveview 1}
+wv_waveview_context_menu WV1.PANEL1:1.LEGEND
+wv_press_key Delete
+wv_move_window {Confirmation} {} 585 328
+wv_select_dialog {Confirmation} 
+wv_move_window {Confirmation} {} 585 522
+wv_press_button {Confirmation} {} {Ok} 
+wv_press_key Delete
+#please select panel(s) for the delete action
+wv_select_waveview 1 {waveview 1}
+wv_select_wv_item WV1.PANEL1:1.LEGEND
+wv_select_panel WV1.PANEL1:1.LEGEND
+wv_press_key Delete
+wv_move_window {Confirmation} {} 585 328
+wv_move_window {Confirmation} {} 585 494
+wv_select_dialog {Confirmation} 
+wv_move_window {Confirmation} {} 585 494
+wv_press_button {Confirmation} {} {Ok} 
+wv_select_waveview 1 {waveview 1}
+wv_select_wv_item WV1.PANEL1:1.LEGEND
+wv_select_panel WV1.PANEL1:1.LEGEND
+wv_press_key Delete
+wv_move_window {Confirmation} {} 585 328
+wv_move_window {Confirmation} {} 585 494
+wv_select_dialog {Confirmation} 
+wv_move_window {Confirmation} {} 585 494
+wv_press_button {Confirmation} {} {Ok} 
+wv_select_waveview 1 {waveview 1}
+wv_select_wv_item WV1.PANEL1:1.LEGEND
+wv_select_panel WV1.PANEL1:1.LEGEND
+wv_press_key Delete
+wv_move_window {Confirmation} {} 585 328
+wv_move_window {Confirmation} {} 585 494
+wv_select_dialog {Confirmation} 
+wv_move_window {Confirmation} {} 585 494
+wv_press_button {Confirmation} {} {Ok} 
+wv_expand_tree_item {Custom WaveView} {} {hierview} {D1:xin_dac_2.tr0(1)@toplevel(0)} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D1:xin_dac_2.tr0(1)@toplevel(0)} {0} {+sep=@}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {6}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {9}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {12}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {15}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {12}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {9}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {6}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {6}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {9}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {12}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {15}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {18}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {21}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {24}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {27}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {30}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {33}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {36}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {34}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {31}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {28}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {25}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {22}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {19}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {16}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {13}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {10}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {7}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {4}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {1}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D1:xin_dac_2.tr0(1)@toplevel(0)@x_cpp2(10)} {0} {+sep=@}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {4}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {1}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D1:xin_dac_2.tr0(1)@toplevel(0)@x_cpn4(4)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D1:xin_dac_2.tr0(1)@toplevel(0)@x_cpn3(3)} {0} {+sep=@}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {6}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {9}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {12}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {15}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {18}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {21}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {24}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {27}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {30}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {33}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {36}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {37}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {34}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {31}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {28}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {25}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {22}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {19}
+wv_drag_tree_item {Custom WaveView} {} {hierview} {D1:xin_dac_2.tr0(1)@toplevel(0)@x_drmp3(27)} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D1:xin_dac_2.tr0(1)@toplevel(0)@x_drmp3(27)} {0} {+sep=@}
+wv_select_list_item {Custom WaveView} {} {sigview} {x_drmp3.v(ca1)} 20
+wv_select_list_item {Custom WaveView} {} {sigview} {x_drmp3.v(ca1)} 20
+wv_move_scrollbar {Custom WaveView} {} {sigview.HScrollBar} {27}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {16}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {13}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {10}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {7}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {4}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {1}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_collapse_tree_item {Custom WaveView} {} {hierview} {D1:xin_dac_2.tr0(1)} {+sep=@}
+wv_expand_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)} {0} {+sep=@}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {3}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_move_scrollbar {Custom WaveView} {} {hierview.VScrollBar} {0}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)@x_sa3(11)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)@x_sa2(10)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)@x_sa4(12)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)@x_sa6(14)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:test.tr0(0)@toplevel(0)@x_sa2(10)} {0} {+sep=@}
+wv_select_window {Custom WaveView} 
+wv_close_window {Custom WaveView} 
+wv_move_window {Confirmation} {} 585 328
+wv_move_window {Confirmation} {} 585 494
+wv_select_dialog {Confirmation} 
+wv_move_window {Confirmation} {} 585 494
+#wv_press_button {Confirmation} {} {Ok} 
+#*WARNING* Can not remove '/home/yanan/.cx_hostport/.cx_hostport_yanan-All-Series_5906'.
