@@ -1,9 +1,9 @@
 ****** HSPICE -- K-2015.06-SP1 linux64 (Aug 23 2015) ******
- Input File: test.sp
+ Input File: andor.sp
  lic:
  lic: FLEXlm: v11.2.1
  lic: USER:   yanan                HOSTNAME: yanan-All-Series
- lic: HOSTID: "74d02b2c3298"       PID:      32665
+ lic: HOSTID: "74d02b2c3298"       PID:      829
  lic: Using FLEXlm license file:
  lic: 3720@licsrv-ece
  lic: Checkout 1 hspice
@@ -47,23 +47,23 @@
        option parhier = local
  init: end read circuit files,  cpu clock=  1.30E-01 peak memory=       210 mb
  init: begin check errors,  cpu clock=  1.30E-01
- init: end check errors,  cpu clock=  1.40E-01 peak memory=       211 mb
+ init: end check errors,  cpu clock=  1.40E-01 peak memory=       210 mb
  init: begin setup matrix, pivot=     0 cpu clock=  1.40E-01
-       establish matrix -- done,  cpu clock=  1.40E-01 peak memory=       211 mb
+       establish matrix -- done,  cpu clock=  1.40E-01 peak memory=       210 mb
        re-order matrix -- done,  cpu clock=  1.40E-01 peak memory=       211 mb
  init: end setup matrix,  cpu clock=  1.40E-01 peak memory=       211 mb
- output: test.tr0
+ output: andor.tr0
  sweep: tran tran0    begin, stop_t=  6.00E-07 #sweeps=6001 cpu clock=  1.40E-01
- tran: time= 6.0000E-08 tot_iter=     524 conv_iter=     188 cpu clock= 1.80E-01
- tran: time= 1.2000E-07 tot_iter=    1097 conv_iter=     389 cpu clock= 2.30E-01
- tran: time= 1.8317E-07 tot_iter=    1422 conv_iter=     505 cpu clock= 2.50E-01
- tran: time= 2.4386E-07 tot_iter=    1753 conv_iter=     620 cpu clock= 2.80E-01
- tran: time= 3.0143E-07 tot_iter=    2108 conv_iter=     752 cpu clock= 3.00E-01
- tran: time= 3.6344E-07 tot_iter=    2149 conv_iter=     765 cpu clock= 3.10E-01
- tran: time= 4.4327E-07 tot_iter=    2165 conv_iter=     772 cpu clock= 3.10E-01
- tran: time= 5.0327E-07 tot_iter=    2169 conv_iter=     774 cpu clock= 3.10E-01
- tran: time= 5.6327E-07 tot_iter=    2173 conv_iter=     776 cpu clock= 3.10E-01
- tran: time= 6.0000E-07 tot_iter=    2177 conv_iter=     778 cpu clock= 3.10E-01
- sweep: tran tran0    end,  cpu clock=  3.10E-01 peak memory=       214 mb
+ tran: time= 6.0000E-08 tot_iter=     630 conv_iter=     227 cpu clock= 1.80E-01
+ tran: time= 1.2000E-07 tot_iter=    1242 conv_iter=     451 cpu clock= 2.10E-01
+ tran: time= 1.8087E-07 tot_iter=    1348 conv_iter=     491 cpu clock= 2.20E-01
+ tran: time= 2.4087E-07 tot_iter=    1352 conv_iter=     493 cpu clock= 2.20E-01
+ tran: time= 3.0087E-07 tot_iter=    1356 conv_iter=     495 cpu clock= 2.20E-01
+ tran: time= 3.6087E-07 tot_iter=    1360 conv_iter=     497 cpu clock= 2.20E-01
+ tran: time= 4.2087E-07 tot_iter=    1364 conv_iter=     499 cpu clock= 2.30E-01
+ tran: time= 4.8087E-07 tot_iter=    1368 conv_iter=     501 cpu clock= 2.30E-01
+ tran: time= 5.4087E-07 tot_iter=    1372 conv_iter=     503 cpu clock= 2.30E-01
+ tran: time= 6.0000E-07 tot_iter=    1376 conv_iter=     505 cpu clock= 2.30E-01
+ sweep: tran tran0    end,  cpu clock=  2.30E-01 peak memory=       213 mb
 >info:         ***** hspice job concluded
  lic: Release hspice token(s)

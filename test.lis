@@ -1,0 +1,13 @@
+ ****** HSPICE -- K-2015.06-SP1 linux64 (Aug 23 2015) ******                    
+  Copyright (c) 1986 - 2018 by Synopsys, Inc. All Rights Reserved.              
+  This software and the associated documentation are proprietary
+  to Synopsys, Inc. This software may only be used in accordance
+  with the terms and conditions of a written license agreement with
+  Synopsys, Inc. All other use, reproduction, or distribution of
+  this software is strictly prohibited.
+  Input File: test.sp                                                           
+  Command line options: /home/yanan/Synopsys/HSpice/K-2015.06-SP1/hspice/linux64/hspice -i test.sp -o test.lis
+ lic: No 'setenv SNPSLMD_LICENSE_FILE or LM_LICENSE_FILE' in current environment' 
+ lic: Unable to checkout (hspice) 
+ lic:   
+ lic: total license checkout elapse time:        0.00(s)
